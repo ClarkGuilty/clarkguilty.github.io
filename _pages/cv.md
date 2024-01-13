@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Physicist, Universidad de los Andes, 2018
+* Master in Science-Physics, Universidad de los Andes, 2020
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019: Teaching Assistant
+  * Experimental Physics I & II
+  * Universidad de los Andes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* 2020: Teaching Assistant
+  * Experimental Physics I & II
+  * Universidad de los Andes
   
 Skills
 ======
